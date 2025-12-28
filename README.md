@@ -1,6 +1,6 @@
 # Hello, I'm Eli
 
-**Systems Software Engineer** with production experience in **Rust**. I specialize in open-source leadership, scaling geospatial platforms, and designing custom RISC-V architectures.
+**Systems Software Engineer** with production experience in **Rust**. I specialize in open-source leadership, scaling geospatial platforms, and designing custom RISC architectures.
 
 ### My Projects
 
